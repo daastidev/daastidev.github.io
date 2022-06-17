@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+
+<respuesta_server>
+
+    <respuesta_inmediata>
+        <respuesta_corta>El clima presenta precipitaciones </respuesta_corta>
+        <respuesta_larga>El viernes, 18 de junio 2022 en El Cairo el tiempo será:
+            Mañana Soleado, tiene un pronostico donde durante la mañana de hoy se espera una temperatura de 37°C en El Cairo, teniendo en cuenta el viento, humedad, y otras condiciones climáticas, además a probabilidad de lluvias será de 4% y la velocidad del viento será de 13 Km/h,habrá humedad de 70%, mientras que en la tarde la lluvia moderada a intervalos, mientras que en la tarde, la temperatura en El Cairo será de 37°C, siendo la probabilidad de lluvias será del 4%.
+        </respuesta_larga>
+    </respuesta_inmediata>
+
+
+    <respuesta_inmediata>
+        <respuesta_corta>El clima presenta precipitaciones </respuesta_corta>
+        <respuesta_larga>El viernes, 19 de mayo 2023 en Sau Paulo el tiempo será:
+            Mañana Soleado, tiene un pronostico donde durante la mañana de hoy se espera una temperatura de 18°C en Sau Paulo, teniendo en cuenta el viento, humedad, y otras condiciones climáticas, además a probabilidad de lluvias será de 57% y la velocidad del viento será de 8 Km/h,habrá humedad de 38%, mientras que en la tarde la lluvia moderada a intervalos, mientras que en la tarde, la temperatura en Sau Paulo será de 37°C, siendo la probabilidad de lluvias será del 57% .
+        </respuesta_larga>
+    </respuesta_inmediata>
+
+
+    <respuesta_inmediata>
+        <respuesta_corta>El clima presenta precipitaciones </respuesta_corta>
+        <respuesta_larga>El viernes, 26 de diciembre 2022 en Osaka el tiempo será:
+            Mañana Soleado, tiene un pronostico donde durante la mañana de hoy se espera una temperatura de 29°C en Osaka, teniendo en cuenta el viento, humedad, y otras condiciones climáticas, además a probabilidad de lluvias será de 40% y la velocidad del viento será de 3 Km/h,habrá humedad de 88%, mientras que en la tarde la lluvia moderada a intervalos, mientras que en la tarde, la temperatura en Osaka será de 29°C, siendo la probabilidad de lluvias será del 40%.
+        </respuesta_larga>
+    </respuesta_inmediata>
+
+
+    <respuesta_inmediata>
+        <respuesta_corta>El clima presenta precipitaciones </respuesta_corta>
+        <respuesta_larga>El viernes, 8 de abril 2022 en Madrid el tiempo será:
+            Mañana Soleado, tiene un pronostico donde durante la mañana de hoy se espera una temperatura de 39°C en Madrid, teniendo en cuenta el viento, humedad, y otras condiciones climáticas, además a probabilidad de lluvias será de 15% y la velocidad del viento será de  10 Km/h,habrá humedad de 21%, mientras que en la tarde la lluvia moderada a intervalos, mientras que en la tarde, la temperatura en Madrid será de 29°C, siendo la probabilidad de lluvias será del 15% .
+        </respuesta_larga>
+    </respuesta_inmediata>
+ 
+</respuesta_server>
