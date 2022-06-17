@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+
+<resps_server>
+
+    <response_short_long Country="Ecuador">
+        <status>OK HTPP "200"</status>
+        <responseshort>El clima es clima es soleado para Ecuador </responseshort>
+        <responselarga>El viernes, 17 de junio 2022 en Quito el tiempo será:
+            en la tarde el aire se calienta a +15...+18°C, punto de rocío: +7,43°C; la relación entre la temperatura, el viento y la humedad relativa, sensación térmica de aire: Muy agradable; lluvias débiles o localmente moderadas, se recomienda coger un paraguas, el viento flojito sopla de norte con velocidad de 7-11 kmh, el cielo está nublado; ropa recomendada: zapatos, cerrado sandalias, botas, zapatillas de deporte, ligeras zapatillas de deporte, calcetines, altos calcetines, medias, pantalones de chándal, pantalones, pantalones calientes, camisa de manga larga, blusa, blusa con mangas largas, sudadera, de punto vestido; temporada astronómica: otoño;
+        </responselarga>
+    </response_short_long>
+
+    <response_short_long Country="Japan">
+        <status>OK HTPP "200"</status>
+        <responseshort>El clima es clima es nublado para Abashiri </responseshort>
+        <responselarga>El jueves, 23 de junio 2022 en Abashiri el pronóstico del tiempo es la siguiente:
+            en la madrugada la temperatura del aire será igual a +13°C, punto de rocío: +13,21°C; la relación entre la temperatura, el viento y la humedad relativa, sensación térmica de aire: Muy agradable; Posibilidad de niebla, visibilidad 483 metros; nubes sobre el cielo, el viento flojito sopla de sureste con velocidad de 4-11 kmh, el cielo está nublado; ropa para el clima: botas, zapatillas de deporte, calcetines, altos calcetines, medias, pantalones de chándal, pantalones calientes, camisa de manga larga, blusa con mangas largas, sudadera, de punto vestido, chaqueta; temporada astronómica: verano;
+        </responselarga>
+    </response_short_long>
+
+    <response_short_long Country="France">
+        <status>OK HTPP "200"</status>
+        <responseshort>El clima es clima es nublado para Paris </responseshort>
+        <responselarga>El sábado, 18 de junio 2022 en París el tiempo será:
+            en la madrugada la temperatura del aire disminuye a +22...+28°C, punto de rocío: +14,86°C; la relación entre la temperatura, el viento y la humedad relativa, sensación térmica de aire: Agradable; no se esperan precipitaciones, el viento flojito sopla de sureste con velocidad de 4-7 kmh, cielo sin nubes; ropa recomendada: sandalias, zapatos, cerrado sandalias, ligeras zapatillas de deporte, chanclas, sombrero, tapa, calcetines, altos calcetines, medias, pantalones cortos, falda, pantalones de chándal, pantalones, vestido fácil, camiseta, camisa de manga corta, blusa; temporada astronómica: primavera;;
+        </responselarga>
+    </response_short_long>
+
+    <response_short_long Country="Tanzania">
+        <status>OK HTPP "200"</status>
+        <responseshort>El clima es clima es nublado para Tanzania </responseshort>
+        <responselarga> <response_short_long>
+            <responseshort>El clima es clima es nublado para Paris </responseshort>
+            <responselarga>El sábado, 18 de junio 2022 en París el tiempo será:
+                en la madrugada la temperatura del aire disminuye a +22...+28°C, punto de rocío: +14,86°C; la relación entre la temperatura, el viento y la humedad relativa, sensación térmica de aire: Agradable; no se esperan precipitaciones, el viento flojito sopla de sureste con velocidad de 4-7 kmh, cielo sin nubes; ropa recomendada: sandalias, zapatos, cerrado sandalias, ligeras zapatillas de deporte, chanclas, sombrero, tapa, calcetines, altos calcetines, medias, pantalones cortos, falda, pantalones de chándal, pantalones, vestido fácil, camiseta, camisa de manga corta, blusa; temporada astronómica: primavera;;
+            </responselarga>
+        </response_short_long>
+        </responselarga>
+    </response_short_long>
+ 
+</resps_server>
