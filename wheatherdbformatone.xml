@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!--- We will define a set of databases xml wheather data Files  -->
+
+<sunrise_sunset_wheather>
+
+   <results_sunforecast >
+      <region Country="Ecuador">LatinAmerica</region>
+      <date>2022-10-18</date>
+      <wind>23 km/h</wind>
+      <precipitation>89%</precipitation>
+      <temperature> 
+         <gradecelsius>12</gradecelsius>
+         <gradefarenheit>54</gradefarenheit>
+      </temperature>
+   </results_sunforecast>
+
+  <results_sunforecast >
+      <region Country="Japan">Asia</region>
+      <date>2022-10-18</date>
+      <wind>25 km/h</wind>
+      <precipitation>75%</precipitation>
+      <temperature> 
+         <gradecelsius>15</gradecelsius>
+         <gradefarenheit>58</gradefarenheit>
+      </temperature>
+   </results_sunforecast>
+
+   <results_sunforecast >
+      <region Country="France">Europa</region>
+      <date>2014-11-20</date>
+      <wind>19 km/h</wind>
+      <precipitation>50%</precipitation>
+      <temperature> 
+         <gradecelsius>25</gradecelsius>
+         <gradefarenheit>68</gradefarenheit>
+      </temperature>
+   </results_sunforecast>
+
+   <results_sunforecast >
+      <region Country="Tanzania">Africa</region>
+      <date>2017-07-17</date>
+      <wind>21 km/h</wind>
+      <precipitation>45%</precipitation>
+      <temperature> 
+         <gradecelsius>28</gradecelsius>
+         <gradefarenheit>78</gradefarenheit>
+      </temperature>
+   </results_sunforecast>
+
+
+</sunrise_sunset_wheather>
