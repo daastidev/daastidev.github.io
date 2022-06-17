@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!--- We will define a set of databases xml wheather Files  -->
+
+<sunrise_sunset_wheather>
+
+ <results_sunforecast >
+    <sunrise>15</sunrise>
+    <sunset>Lewis Carroll</sunset>
+    <solar_noon> United Kingdom</solar_noon>
+    <day_length>Macmillan</day_length> 
+    <longitude> Seven of January 2022 </longitude>
+    <latitude></latitude>
+    <forecast_info>sjf</forecast_info>
+    <wind>sdw</wind>
+    <precipitation>dfdj</precipitation>
+    <preasure> sdsf   </preasure>
+
+ </results_sunforecast>
+ 
+ <results_sunforecast >
+    <sunrise>0</sunrise>
+    <sunset>Lewis Carroll</sunset>
+    <solar_noon> United Kingdom</solar_noon>
+    <day_length>Macmillan</day_length> 
+    <longitude> Seven of January 2022 </longitude>
+    <latitude></latitude>
+    <forecast_info>ahjdhddsk</forecast_info>
+    <wind>asfs</wind>
+    <precipitation>scfdv</precipitation>
+    <preasure>   svscfs </preasure>
+
+ </results_sunforecast>
+
+ <results_sunforecast >
+    <sunrise>Alicia en el país de las maravillas</sunrise>
+    <sunset>Lewis Carroll</sunset>
+    <solar_noon> United Kingdom</solar_noon>
+    <day_length>Macmillan</day_length> 
+    <longitude> Seven of January 2022 </longitude>
+    <latitude></latitude>
+    <forecast_info>cefefvef</forecast_info>
+    <wind>sfsfw</wind>
+    <precipitation>scfsc</precipitation>
+    <preasure>  sdsfs  </preasure>
+
+ </results_sunforecast>
+
+ 
+ <results_sunforecast >
+    <sunrise>Alicia en el país de las maravillas</sunrise>
+    <sunset>Lewis Carroll</sunset>
+    <solar_noon> United Kingdom</solar_noon>
+    <day_length>Macmillan</day_length> 
+    <longitude> Seven of January 2022 </longitude>
+    <latitude>sf</latitude>
+    <forecast_info>csvdvfd</forecast_info>
+    <wind>sds</wind>
+    <precipitation>dxcvsdv</precipitation>
+    <preasure>  csdcvdvde </preasure>
+
+ </results_sunforecast>
+
+
+ <results_sunforecast >
+    <sunrise>Alicia en el país de las maravillas</sunrise>
+    <sunset>Lewis Carroll</sunset>
+    <solar_noon> United Kingdom</solar_noon>
+    <day_length>Macmillan</day_length> 
+    <longitude> Seven of January 2022 </longitude>
+    <latitude></latitude>
+    <forecast_info>scwsfdsdds</forecast_info>
+    <wind>sfsfe</wind>
+    <precipitation>dfed</precipitation>
+    <preasure>dsffde</preasure>
+
+ </results_sunforecast>
+
+</sunrise_sunset_wheather>
