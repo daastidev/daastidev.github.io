@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!--- We will define a set of databases xml wheather Files  -->
+
+<clima>
+
+    <nota1>
+        <region>AfricaE</region>
+        <fecha>l8-06-2022</fecha>
+        <precipitacion>4%</precipitacion>
+        <temperatura> 
+         <gradoscentigrados>37°</gradoscentigrados>
+        </temperatura>
+        <humedad>70% </humedad>
+        <viento>13km/h</viento>
+    </nota1>
+
+
+    <nota2>
+        <region>AmericaSurB</region>
+        <fecha>19-05-2023</fecha>
+        <precipitacion>57%</precipitacion>
+        <temperatura> 
+            <gradoscentigrados>18°</gradoscentigrados>
+        </temperatura>
+        <humedad>38% </humedad>
+        <viento>8km/h</viento>
+    </nota2>    
+
+    <nota3>
+        <region>AsiaJ</region>
+        <fecha>26-12-2022</fecha>
+        <precipitacion>40%</precipitacion>
+        <temperatura> 
+            <gradoscentigrados>29°</gradoscentigrados>
+        </temperatura>
+        <humedad>88% </humedad>
+        <viento>3km/h</viento>
+    </nota3>
+
+
+    <nota4>
+        <region>EuropaE</region>
+        <fecha>8-04-2022</fecha>
+        <precipitacion>15%</precipitacion>
+        <temperatura> 
+            <gradoscentigrados>39°</gradoscentigrados>
+        </temperatura>
+        <humedad>21% </humedad>
+        <viento>10km/h</viento>
+    </nota4>
+
+</clima>
