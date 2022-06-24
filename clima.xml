@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<clima_base>
 <datos>
-<ubicación>
-  <Región>Ecuador</Región>
-  <lugar>Quito</lugar>
-</ubicación>
-<informe>
-  <dia>lunes</dia>
-  <fecha>2022-06-12</fecha>
-  <temperatura>20</temperatura>
-  <pronóstico>nublado</pronóstico>
-  <presión>20</presión>
-  <viento>10</viento>
-  <dir>NorOeste</dir>
-  <descripción>probabilidad de que llueva,tomar las debidas precauciones</descripción>
-</informe>
+    <ubicación_informe>
+        <Región>Ecuador</Región>
+        <lugar>Quito</lugar>
+        <dia>lunes</dia>
+        <fecha>2022-06-12</fecha>
+        <temperatura>20</temperatura>
+        <pronóstico>nublado</pronóstico>
+        <presión>20</presión>
+        <viento>10km/h</viento>
+        <direccion>noroeste</direccion>
+        <descripción>probabilidad de que llueva,tomar las debidas precauciones</descripción>
+    </ubicación_informe>
+   
+    <ubicación_informe>
+        <Región>Ecuador</Región>
+        <lugar>Esmeraldas</lugar>
+        <dia>martes</dia>
+        <fecha>2022-05-24</fecha>
+        <temperatura>30</temperatura>
+        <pronóstico>soleado</pronóstico>
+        <presión>10</presión>
+        <viento>15km/h</viento>
+        <direccion>suroeste</direccion>
+        <descripción>altas probabilidades de rayos ultravioleta fuerte</descripción>
+        
+    <ubicación_informe>
+        <Región>Ecuador</Región>
+        <lugar>Napo</lugar>
+        <dia>miercoles</dia>
+        <fecha>2022-08-31</fecha>
+        <temperatura>13</temperatura>
+        <pronóstico>llovisna</pronóstico>
+        <presión>10</presión>
+        <viento>15km/h</viento>
+        <direccion>norte</direccion>
+        <descripción>altas probabilidades de rayos ultravioleta fuerte</descripción>
+    </ubicación_informe>
 </datos>
+
