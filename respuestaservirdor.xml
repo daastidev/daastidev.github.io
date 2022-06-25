@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<servidorrespuesta> 
 
+<servidorrespuesta> 
     <respuesta_corta_larga >
         <estado> ready htpp "22" </estado>
         <respuescorta> El dia 24/07/2022 el clima se encuentra nublado </respuescorta>
@@ -12,6 +12,7 @@
         de 10km/h en direccion noroeste.
         </respuestalarga>
     </respuesta_corta_larga>
+    
     <respuesta_corta_larga >
         <estado> ready htpp "33" </estado>
         <respuescorta> El dia 24/05/2022 el clima se encuentra soleado </respuescorta>
@@ -22,6 +23,7 @@
         a una presion de 10°, ademas el metereologico pronostica un viento 
         de 15km/h en direccion suroeste.
         </respuestalarga>
+        
     </respuesta_corta_larga>
      <respuesta_corta_larga >
         <estado> ready htpp "44" </estado>
