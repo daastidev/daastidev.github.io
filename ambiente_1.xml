@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<info>
+    <pronostico>
+        <Región>Ecuador</Región>
+        <fecha>2022-06-27</fecha>
+        <lugar>Santo Domingo</lugar>
+        <dia>Lunes</dia>
+        <direccion>suroeste</direccion>
+        <descripción>día soleado, protegerse de rayos ultravioletas</descripción>
+        <pronóstico>despejado</pronóstico>
+        <presión>25</presión>
+        <viento>20km/h</viento>
+        <temperatura>30</temperatura>
+    </pronostico>
+    
+    <pronostico>
+        <Región>Ecuador</Región>
+        <fecha>2022-06-28</fecha>
+        <lugar>Chimborazo</lugar>
+        <dia>Martes</dia>
+        <direccion>noroeste</direccion>
+        <descripción>altas probabilidades de lluvias y vientos fuertes</descripción>
+        <pronóstico>nublado y oscurecido</pronóstico>
+        <presión>15</presión>
+        <viento>20km/h</viento>
+        <temperatura>18</temperatura>
+       
+    </pronostico>
+
+    <pronostico>
+        <Región>Ecuador</Región>
+        <fecha>2022-06-29</fecha>
+        <lugar>Morona Santiago</lugar>
+        <dia>Miercoles</dia>
+        <direccion>sur</direccion>
+        <descripción>cielo altamente nublado ,posiblemente llueva toda la tarde</descripción>
+        <pronóstico>llovisna</pronóstico>
+        <presión>10</presión>
+        <viento>15km/h</viento>
+        <temperatura>13</temperatura>
+    </pronostico>
+</info>
