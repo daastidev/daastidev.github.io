@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servidorrespuesta> 
+
+    <respuesta_corta_larga Coutry="Sierra">
+        <estado> ready htpp "22" </estado>
+        <respuescorta> El dia 24/07/2022 el clima se encuentra nublado </respuescorta>
+        <respuestalarga>
+        El dia Lunes con fecha 24 del mes de julio en el año 2022 en la 
+        region de la Sierra en el pais de ecuador en la capital ecuatoria 
+        Quito presenta una temperatura de 20° grados, con un clima nublado
+        a una presion de 20°, ademas el metereologico pronostica un viento 
+        de 10km/h en direccion noroeste.
+        </respuestalarga>
+    </respuesta_corta_larga>
+    <respuesta_corta_larga Coutry="Costa">
+        <estado> ready htpp "33" </estado>
+        <respuescorta> El dia 24/05/2022 el clima se encuentra soleado </respuescorta>
+        <respuestalarga>
+        El dia martes con fecha 24 del mes de mayo en el año 2022 en la 
+        region de la Costa en el pais de ecuador en la provincia de esmeraldas 
+        presenta una temperatura de 30° grados, con un clima soleado
+        a una presion de 10°, ademas el metereologico pronostica un viento 
+        de 15km/h en direccion suroeste.
+        </respuestalarga>
+    </respuesta_corta_larga>
+     <respuesta_corta_larga Coutry="Oriente">
+        <estado> ready htpp "44" </estado>
+        <respuescorta> El dia 28/08/2022 el clima esta lluvioso </respuescorta>
+        <respuestalarga>
+        El dia miercoles con la fecha 28 de mayo  del año 2022 en la region del 
+        oriente los cielos se encuentran nublados con precipitaciones por debajo 
+        de lo esperado tener en cuenta que estamos en epocas de incvierno tomar 
+        las medidas adecuada.
+        </respuestalarga>
+    </respuesta_corta_larga>
+</servidorrespuesta>
