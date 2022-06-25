@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <servidorrespuesta> 
 
-    <respuesta_corta_larga Coutry="Sierra">
+    <respuesta_corta_larga >
         <estado> ready htpp "22" </estado>
         <respuescorta> El dia 24/07/2022 el clima se encuentra nublado </respuescorta>
         <respuestalarga>
@@ -12,7 +12,7 @@
         de 10km/h en direccion noroeste.
         </respuestalarga>
     </respuesta_corta_larga>
-    <respuesta_corta_larga Coutry="Costa">
+    <respuesta_corta_larga >
         <estado> ready htpp "33" </estado>
         <respuescorta> El dia 24/05/2022 el clima se encuentra soleado </respuescorta>
         <respuestalarga>
@@ -23,7 +23,7 @@
         de 15km/h en direccion suroeste.
         </respuestalarga>
     </respuesta_corta_larga>
-     <respuesta_corta_larga Coutry="Oriente">
+     <respuesta_corta_larga >
         <estado> ready htpp "44" </estado>
         <respuescorta> El dia 28/08/2022 el clima esta lluvioso </respuescorta>
         <respuestalarga>
