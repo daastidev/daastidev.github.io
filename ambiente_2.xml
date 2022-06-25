@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servidorrespuesta> 
+
+    <short_large_answer Coutry="Costa">
+        <estado> ready htpp "01" </estado>
+        <shortanswer> El dia 27/06/2022 el clima se encuentra despejado</shortanswer>
+        <largeanswer>
+        El dia Lunes 27 del mes de junio del año 2022 en la
+        region Costa ecuatoriana en la ciudad centrica de Santo Domingo
+        se evidencia una temperatura de 30° grados, con un clima despejado
+        a una presion de 25°, ademas el metereologico pronostica un viento
+        de 20km/h en direccion suroeste.
+        </largeanswer>
+    </short_large_answer>
+    <short_large_answer Coutry="Sierra">
+        <estado> ready htpp "02" </estado>
+        <shortanswer> El dia 28/06/2022 el clima se encuentra nublado y oscurecido </shortanswer>
+        <largeanswer>
+        El dia Martes del 28 del mes de Junio del año 2022 en la
+        region Sierra ecuatoriana en la provincia de Chimborazo
+        se detalla una temperatura de 18° grados, con un clima nublado y oscurecido
+        a una presion de 15°, ademas el metereologico pronostica un viento
+        de 20km/h en direccion noroeste.
+        </largeanswer>
+    </short_large_answer>
+     <short_large_answer Coutry="Oriente">
+        <estado> ready htpp "03" </estado>
+        <shortanswer> El dia 29/06/2022 el clima esta lluvioso </shortanswer>
+        <largeanswer>
+        El dia Miercoles del 29 de Junio  del año 2022 en la region Oriente
+            se distingue un cielo nublado e indicador de precipitaciones por debajo
+        de lo esperado considerando las  estaciones del año en invierno protegerse de
+        posibles lluvias torrenciales e inundaciones.
+        </largeanswer>
+    </short_large_answer>
+</servidorrespuesta>
