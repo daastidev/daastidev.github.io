@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servidorrespuesta> 
+
+    <respuesta_corta_larga Coutry="Sierra">
+        <estado> ready htpp "22" </estado>
+        <respuescorta> El dia 24/07/2022 el clima se encuentra nublado </respuescorta>
+        <respuestalarga>
+        Se caracteriza por un clima tropical muy húmedo en zonas de transición hacia el litoral y Amazonía, templado semi-húmedo a húmedo en la zona interandina, cálido y seco en los valles interandinos y frío de alta montaña en los páramos, sobre los 3000 m de altitud. Esta región recibe la influencia alternada de masas de aire oceánicas y amazónicas y de la oscilación de la Zona de Convergencia Intertropical, por lo que registra dos estaciones lluviosas (distribución bimodal de lluvias), entre marzo-abril y octubre-noviembre (6, 10). El promedio anual de las precipitaciones varía entre 800 y 1500 mm, a excepción de la zona del valle del Chota (300 mm) y el valle Jubones (400 mm). Las temperaturas más altas se registran entre diciembre y enero, con mínimos entre abril y junio. La temperatura está ligada a la altura; entre los 1500 y 3000 m los valores promedio varían entre 8 y 20ºC, con un gradiente de temperatura de ~5ºC por cada 1000 m de altura (2, 8).
+        </respuestalarga>
+    </respuesta_corta_larga>
+    <respuesta_corta_larga Coutry="Costa">
+        <estado> ready htpp "33" </estado>
+        <respuescorta> El dia 24/05/2022 el clima se encuentra soleado </respuescorta>
+        <respuestalarga>
+        La región Costa se caracteriza por un clima tropical árido al suroeste, seco a húmedo hacia el centro-sur y muy húmedo al norte, en la zona del Chocó. La estación húmeda (altas temperaturas y lluvia abundante) se registra entre diciembre y abril-mayo por la presencia de la corriente cálida de El Niño y la Zona de Convergencia Intertropical. La estación seca, caracterizada por bajas temperaturas y lluvia escasa, dura de junio a noviembre o diciembre (10). La temperatura promedio de toda la región oscila entre los 24-25ºC, aunque puede llegar a ser menor a 22ºC en zonas de cordillera. Sus niveles de precipitación (Fig. 9) anual varían de menos de 60 mm (península de Santa Elena) a más de 2000 mm, dependiendo de la ubicación con respecto a la zona de influencia de la corriente de Humboldt (2, 10). Ese gradiente de lluvia crea hábitats muy diversos, desde zonas desérticas hasta bosques húmedos tropicales. También hay un gradiente de lluvia de occidente (seco) a oriente, dónde la presencia de los Andes hace que el aire húmedo, proveniente del océano, libere su humedad produciendo lluvias.
+        </respuestalarga>
+    </respuesta_corta_larga>
+     <respuesta_corta_larga Coutry="Oriente">
+        <estado> ready htpp "44" </estado>
+        <respuescorta> El dia 28/08/2022 el clima esta lluvioso </respuescorta>
+        <respuestalarga>
+        Se caracteriza por un clima tropical muy húmedo en toda la región durante todo el año, debido a la retención de humedad por los grandes bosques amazónicos. Las precipitaciones en esta región son constantes, con un ligero incremento entre marzo y julio y una disminución en agosto y enero como resultado del movimiento de la Zona de Convergencia Intertropical. Las tormentas son muy comunes en la región. Se registra el máximo de precipitación (>4500 mm) de todo el país en la zona de Mera y Puyo, en la provincia de Pastaza (11). La temperatura promedio es de 24-25ºC, la cual fluctúa muy poco, con máximos de hasta 40ºC en el mes de mayo (2, 10).
+        </respuestalarga>
+    </respuesta_corta_larga>
+</servidorrespuesta>
